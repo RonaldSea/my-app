@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/my-app/static/js/main.4a9d89a7.js",
+    "static/media/skate.jpg": "/my-app/static/media/skate.63d32677d55bef1f19ba.jpg",
+    "index.html": "/my-app/index.html",
+    "main.4a9d89a7.js.map": "/my-app/static/js/main.4a9d89a7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4a9d89a7.js"
+  ]
+}
